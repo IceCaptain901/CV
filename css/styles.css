@@ -17,3 +17,7 @@
     border-style: double;
     border-color: #48E0E4;
   }
+
+th, td {
+  font-size: 12px;
+}
